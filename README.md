@@ -4,7 +4,11 @@ This is the sub repository of the main project which can be found here: https://
 
 This repositroy is used to maintain the code for android platform.
 
+# Slack group chat.
+If you would like to contribute to the development of this app, you are very welcome to join our slack group chat! https://time-library.slack.com/join/shared_invite/enQtNzA3MjgzNzQ2MDY4LWI5ZjIxYWMxMDU2MjFlZDNmZmI3ZWUyYWNmNGFhMDUyN2Q1N2RlY2UxNTZiOGZiNDNiNTkwNjU2MzJhOTkyMWM
+
 # Overview of the project.
+This project is building an app that will completely change the way you view history. It is meant as an interactive, integrated and layered note-taking app that helps anyone trying to study or understand the progression of historical events over time.
 
 The idea is that this can be used for any type of historical data. 
 For example:
@@ -15,7 +19,7 @@ For example:
 - The growth of your company
 - etc.
 
-The library will be operated through a number of elements which can all interact and contain their own descriptions. Some elements will need the possibility to be nested in another.
+The user builds their own library of information, which can be shared with other users, or remain self-contained for private use. The libraries will be operated through a number of elements which can all interact and contain their own descriptions. Some elements will need the possibility to be nested in another.
 
 The elements are:
 - events
